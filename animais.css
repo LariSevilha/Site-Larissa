@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+.i{
+    display: flex;
+    flex-direction: column;
+    width: 280px;   
+}
+.galeria{
+    text-align: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+}

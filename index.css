@@ -4,8 +4,11 @@ body{
 .img{
     display:flex;
     justify-content: center;
+    
 }
 .ol{
     text-align: center;
     font-size: 20px;
 }
+
+ 
