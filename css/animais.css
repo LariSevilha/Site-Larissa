@@ -8,8 +8,11 @@ body{
 }
 .galeria{
     text-align: center;
+    margin-top: 30px;
 }
 table{
     display: flex;
     justify-content: center;
 }
+
+
