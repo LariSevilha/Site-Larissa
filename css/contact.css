@@ -10,7 +10,7 @@ p{
 li{
     text-align: center;
     display: table-cell;
-    border: 1px solid rgb(187, 92, 124);
+    border: 1px solid palevioletred;
 }
 div{
     align-items: baseline;

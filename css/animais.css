@@ -14,5 +14,22 @@ table{
     display: flex;
     justify-content: center;
 }
-
+button{
+    background-color: #80c7bb; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
 
