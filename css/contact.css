@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+p, li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+    display: table-cell;
+    border: 1px solid rgb(187, 92, 124);
+}
+div{
+    align-items: baseline;
+}
