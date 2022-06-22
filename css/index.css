@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 125, 233);
+    background-color: white;
 }
 .img{
     display:flex;
@@ -8,9 +8,11 @@ body{
 }
 .ol{
     text-align: center;
-    font-size: 20px;
+    font-size: 49px;
     margin: 25px;
-}
+    font-weight: 700;
+} 
+
 
 .btn{
     background: #4291a5;
@@ -35,7 +37,7 @@ body{
     max-width: 800px;
     list-style: none;
     padding: 0;
-}
+ }
 
 #menu-h ul li {
     display: inline;
@@ -56,3 +58,18 @@ body{
     float: right;
     background-color: rgb(8, 8, 8);
 }
+footer{
+    display: flex;
+    padding: 10px 40x;
+ }
+ ul{
+     text-align: center;
+     margin-top:5px;
+ }
+ .pa{
+     font-weight:bold;
+ }
+ .sub{
+     display: flex;
+    justify-items: center;
+    }
